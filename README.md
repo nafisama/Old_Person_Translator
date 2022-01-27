@@ -16,7 +16,7 @@
   Left Rotation       : Testleft.txt       https://github.com/nafisama/Old_Person_Translator/blob/main/Testleft.txt
   Right Rotation      : TestRight.txt      https://github.com/nafisama/Old_Person_Translator/blob/main/TestRight.txt
   Left-Right Rotation : TestLeftRight.txt  https://github.com/nafisama/Old_Person_Translator/blob/main/TestLeftRight.txt
-  Right-Left Rotation :  TestRightLeft.txt https://github.com/nafisama/Old_Person_Translator/blob/main/TestRightLeft.txt
+  Right-Left Rotation : TestRightLeft.txt  https://github.com/nafisama/Old_Person_Translator/blob/main/TestRightLeft.txt
 
   
   

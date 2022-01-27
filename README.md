@@ -12,10 +12,10 @@
   
   The main reasoning behind this app is to better grasp different methods of sorting and updating AVL trees.
   We have tried, 4 ways of sorting and updating the tree. The results are attached to this project.
-Left Rotation       : Testleft.txt ,      https://github.com/nafisama/Old_Person_Translator/blob/main/Testleft.txt
-Right Rotation      : TestRight.txt ,     https://github.com/nafisama/Old_Person_Translator/blob/main/TestRight.txt
-Left-Right Rotation : TestLeftRight.txt,  https://github.com/nafisama/Old_Person_Translator/blob/main/TestLeftRight.txt
-Right-Left Rotation :  TestRightLeft.txt, https://github.com/nafisama/Old_Person_Translator/blob/main/TestRightLeft.txt
+  Left Rotation       : Testleft.txt ,      https://github.com/nafisama/Old_Person_Translator/blob/main/Testleft.txt
+  Right Rotation      : TestRight.txt ,     https://github.com/nafisama/Old_Person_Translator/blob/main/TestRight.txt
+  Left-Right Rotation : TestLeftRight.txt,  https://github.com/nafisama/Old_Person_Translator/blob/main/TestLeftRight.txt
+  Right-Left Rotation :  TestRightLeft.txt, https://github.com/nafisama/Old_Person_Translator/blob/main/TestRightLeft.txt
 
   
   
